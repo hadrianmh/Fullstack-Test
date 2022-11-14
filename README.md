@@ -11,7 +11,7 @@
 > Harapannya: kandidat mampu membuat dan mengolah database dalam skala besar
 
 3. Buatkan aktivitas tracking sederhana menggunakan javascript yg dapat diimplementasi dalam soal nomor satu dengan contoh;
-- menyimpan data (bebas) kedalam cookie ketika berhasil ataupun gagal submit data
+- menyimpan data (bebas) kedalam cookie ketika berhasil ataupun gagal ketika klik submit
 > Harapannya: kandidat dapat membuat tracker menggunakan Javascript
 
 4. Ceritakan pengalaman kamu mengenai VPN? bagaimana menurut kamu cara mengimplementasikan VPN IPSEC?
