@@ -14,7 +14,7 @@
 - menyimpan data (bebas) kedalam cookie ketika berhasil ataupun gagal ketika klik submit
 > Harapannya: kandidat dapat membuat tracker menggunakan Javascript
 
-4. Ceritakan pengalaman kamu mengenai VPN? bagaimana menurut kamu cara mengimplementasikan VPN IPSEC?
+4. Ceritakan pengetahuan kamu mengenai VPN? bagaimana menurut kamu cara mengimplementasikan VPN IPSEC?
 > Harapannya: kandidat memilik kemampuan dalam membangun jaringan VPN IPSEC
 
 5. Buatlah mini project RESTFul API Crud menggunakan Laravel/Codeigniter dengan database yg sudah kamu buat "data_form" pd nomor soal dua.
